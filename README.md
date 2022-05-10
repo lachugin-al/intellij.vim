@@ -1,1 +1,1 @@
-# Light IntelliJ Theme for vim
+# Light Theme for vim
